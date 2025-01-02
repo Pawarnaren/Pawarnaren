@@ -7,9 +7,9 @@ Hello! I'm a passionate and skilled software developer with a strong background 
 
 ## Skills
 
-- **Programming Languages:** JavaScript, C++, Python
-- **Web Development:** HTML, CSS, React.js, Node.js, Express.js
-- **Database:** SQL, MongoDB
+- **Programming Languages:** JavaScript, C++, Python, Java
+- **Web Development:** React.js, Node.js, Express.js, Next Js, Django
+- **Database:** SQL, MongoDB, Firebase
 - **Version Control:** Git, GitHub
 - **UI/UX Design:** Figma
 
