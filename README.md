@@ -15,7 +15,7 @@ Hello! I'm a passionate and skilled software developer with a strong background 
 
 ## Projects
 
-### Project 1: [Connect APP](https://connect-app17.netlify.app/login)
+### Project 1: [Connect APP](https://connect-app17.netlify.app/login) 🚀
 <img width="948" alt="Connect App Screenshot" src="https://github.com/Pawarnaren/Pawarnaren/blob/main/profileImage2.png">
 
 **Description:**  
