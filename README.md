@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @Narender_Pawar | Software Developer
 
-<!--
-**Pawarnaren/Pawarnaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- Use a black background image at the top of your profile -->
+<img src="https://github.com/Pawarnaren/Pawarnaren/blob/main/assets/black-background.png" width="100%" style="display:block;">
 
 ## About Me
 
@@ -20,8 +19,6 @@ Hello! I'm a passionate and skilled software developer with a strong background 
 
 ### Project 1: [Connect APP](https://connect-app17.netlify.app/login)
 <img width="948" alt="Connect App Screenshot" src="https://github.com/Pawarnaren/Pawarnaren/blob/main/profileImage.png">
-
-<!-- Replace 'profileImage.png' with the correct image URL -->
 
 **Description:**  
 **Connect APP 🚀** is a social networking platform designed to bring people closer by enabling seamless communication and collaboration. The app combines modern UI/UX design with powerful backend functionality to create an engaging user experience.
@@ -48,15 +45,3 @@ Hello! I'm a passionate and skilled software developer with a strong background 
 - **Email:** [narendersinghpawar17@gmail.com](mailto:narendersinghpawar17@gmail.com)
 
 Feel free to reach out to me if you have any questions, project ideas, or just want to connect. I'm open to new opportunities and collaborations. Let's create something amazing together! 🚀
-
----
-
-## Design Notes for a Darker Profile 🌑
-
-To give the appearance of a black background, I’ve added a **dark-themed image** (`profileImage.png`). You can replace this image with a **solid black background** or any custom dark-themed graphic that suits your profile. 
-
-- **Tip:** Create a 1x1px black image and use it as a full-page background, which will give your README a dark appearance without affecting the content layout.
-
-Here's how you could implement a custom dark background image:
-```html
-<img src="https://github.com/Pawarnaren/Pawarnaren/blob/main/assets/black-background.png" width="100%">
