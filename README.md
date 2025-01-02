@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @Narender_Pawar | Software Developer
 
-<!-- Use a black background image at the top of your profile -->
-<img src="https://github.com/Pawarnaren/Pawarnaren/blob/main/assets/black-background.png" width="100%" style="display:block;">
 
 ## About Me
 
