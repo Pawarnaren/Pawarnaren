@@ -51,4 +51,12 @@ Feel free to reach out to me if you have any questions, project ideas, or just w
 
 ---
 
+## Design Notes for a Darker Profile 🌑
 
+To give the appearance of a black background, I’ve added a **dark-themed image** (`profileImage.png`). You can replace this image with a **solid black background** or any custom dark-themed graphic that suits your profile. 
+
+- **Tip:** Create a 1x1px black image and use it as a full-page background, which will give your README a dark appearance without affecting the content layout.
+
+Here's how you could implement a custom dark background image:
+```html
+<img src="https://github.com/Pawarnaren/Pawarnaren/blob/main/assets/black-background.png" width="100%">
